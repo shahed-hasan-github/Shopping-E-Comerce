@@ -10,6 +10,6 @@ This is a fully functional e-commerce web application that allows users to brows
 ✅ Shopping Cart – Add, remove, and update cart items
 ✅ Checkout & Payments – Secure payment processing (Stripe/PayPal)
 ✅ Order Management – Tracks orders & purchase history
-✅ Admin Dashboard – Manage products, users, and orders (if applicable)
+✅ Admin Dashboard – Manage products, users, and orders
 ✅ Fully Responsive Design – Works on desktop, tablet, and mobile
 ✅ Performance Optimized – Fast page loads and caching strategies
